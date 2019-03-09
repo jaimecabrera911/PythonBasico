@@ -51,19 +51,19 @@ print(pares)
 print("\nContar elementos")
 print(len(listaColores))
 
-print("\nUnir Listas en una lista")
+print("\nUnir Listas en una sola lista")
 a = [1, 2, 3]
 b = [4, 5, 6]
 c = [7, 8, 9]
 lista = a, b, c
 print(lista)
 
-print("\nAcceder a la segunda lista")
+print("\nImprimir a la segunda lista")
 print(lista[1])
 
-print("\nAcceder al segundo elemento de la ultima lista")
+print("\nImprimir al segundo elemento de la ultima lista")
 print(lista[-1][1])
 
-print("\nCombinar todos los elementos de una lista en una lista")
+print("\nCombinar todos los elementos de las listas en una lista")
 lista = a + b + c
 print(lista)
