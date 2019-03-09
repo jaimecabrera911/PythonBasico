@@ -21,7 +21,7 @@ print("Potencia=", potencia)
 raiz = 16 // 4
 print("Raiz=", raiz)
 
-###NOTAS###
+# NOTAS
 
 nota1 = 3
 nota2 = 4
