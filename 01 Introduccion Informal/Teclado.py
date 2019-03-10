@@ -18,4 +18,3 @@ decimal1 = float(input("Escribe un decimal o entero"))  # Si agremamos la funcio
 decimal2 = float(input("Escribe otro decimal o entero"))
 
 print(decimal1 + decimal2)
-
